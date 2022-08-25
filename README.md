@@ -1,3 +1,4 @@
-# Example Site
+## Opencore 0.8.3 for AMD Ryzen Hackintosh
 
-This is a sample
+# Specification
+
