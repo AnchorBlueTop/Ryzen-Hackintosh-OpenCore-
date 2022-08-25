@@ -1,6 +1,13 @@
-## Opencore 0.8.3 for AMD Ryzen Hackintosh
+# Opencore 0.8.3 for AMD Ryzen Hackintosh
 
-# Specification
+Documented installation process for an Opencore AMD Ryzen Hackintosh for my specific configuration.
+
+Please refer to the official [Opencore Dortania guide](https://dortania.github.io/OpenCore-Install-Guide/) as all the information present here is replicated from there more in depth.
+
+
+
+
+## Specification
 
 | Component     |  Model                                            |
 | ------------- |---------------------------------------------------|
